@@ -164,24 +164,24 @@
 
 ### [ 나의 서재 ]
 <table align=center>
-  <tr>
+  <tr style="overflow-x: auto;">
     <td>
-      <img src="https://github.com/seomiii/seomiii/assets/86819719/93c2bc62-ce74-4a07-bb5d-4600a4f2c9e8" width=380 />
+      <img src="https://github.com/seomiii/seomiii/assets/86819719/93c2bc62-ce74-4a07-bb5d-4600a4f2c9e8"  />
     </td>
     <td>
-      <img src="https://github.com/DeveloperYard/algorithm/assets/59395755/52a31847-c62f-4039-8401-5f8355799e66" width="380">
+      <img src="https://github.com/DeveloperYard/algorithm/assets/59395755/52a31847-c62f-4039-8401-5f8355799e66"/>
     </td>
     <td>
-      <img src="https://github.com/DeveloperYard/algorithm/assets/59395755/3826ac8b-5d3b-415f-ba67-953fdcbdaaed" width="380">
+      <img src="https://github.com/DeveloperYard/algorithm/assets/59395755/3826ac8b-5d3b-415f-ba67-953fdcbdaaed" />
     </td>
     <td>
-      <img src="https://github.com/DeveloperYard/algorithm/assets/59395755/3826ac8b-5d3b-415f-ba67-953fdcbdaaed" width="380">
+      <img src="https://github.com/DeveloperYard/algorithm/assets/59395755/3826ac8b-5d3b-415f-ba67-953fdcbdaaed"  />
     </td>
     <td>
-      <img width="380" alt="image" src="https://github.com/seomiii/seomiii/assets/86819719/64458940-9175-4f76-8964-e8bd314553b8">
+      <img alt="image" src="https://github.com/seomiii/seomiii/assets/86819719/64458940-9175-4f76-8964-e8bd314553b8"  />
     </td>
     <td>
-      <img src="https://github.com/seomiii/seomiii/assets/86819719/82a58fab-cdfe-4f45-b9bf-7d86beab91b7" width="380">
+      <img src="https://github.com/seomiii/seomiii/assets/86819719/82a58fab-cdfe-4f45-b9bf-7d86beab91b7"  />
     </td>
   </tr>
   <tr>
@@ -276,22 +276,22 @@
 <table align=center>
   <tr>
     <td>
-      <img src="https://github.com/seomiii/seomiii/assets/86819719/6574af80-99e8-416d-89a4-7133bbf4468a" width=380 />
+      <img src="https://github.com/seomiii/seomiii/assets/86819719/6574af80-99e8-416d-89a4-7133bbf4468a"/>
     </td>
     <td>
-      <img src="https://github.com/seomiii/seomiii/assets/86819719/19339f6f-8af2-41d4-84e5-7fc71de7a06b" width=380 />
+      <img src="https://github.com/seomiii/seomiii/assets/86819719/19339f6f-8af2-41d4-84e5-7fc71de7a06b" />
     </td>
     <td>
-      <img src="https://github.com/seomiii/seomiii/assets/86819719/c94b3f76-3f72-49f8-b94c-920b0fb9c08c" width=380 />
+      <img src="https://github.com/seomiii/seomiii/assets/86819719/c94b3f76-3f72-49f8-b94c-920b0fb9c08c" />
     </td>
     <td>
-      <img src="https://github.com/seomiii/seomiii/assets/86819719/1b3b8eaa-3978-4b82-a958-d131169dd24c" width=380 />
+      <img src="https://github.com/seomiii/seomiii/assets/86819719/1b3b8eaa-3978-4b82-a958-d131169dd24c"/>
     </td>
     <td>
-      <img src="https://github.com/seomiii/seomiii/assets/86819719/99620d2d-145d-4f2c-9226-4e74e3defc5f" width=380 />
+      <img src="https://github.com/seomiii/seomiii/assets/86819719/99620d2d-145d-4f2c-9226-4e74e3defc5f" />
     </td>
     <td>
-      <img src="https://github.com/seomiii/seomiii/assets/86819719/5aee21e0-e1b6-4340-a631-5fda0cc4dbf2" width=380 />
+      <img src="https://github.com/seomiii/seomiii/assets/86819719/5aee21e0-e1b6-4340-a631-5fda0cc4dbf2" />
     </td>
 
   </tr>
@@ -326,16 +326,16 @@
 <table align=center>
   <tr>
     <td>
-      <img alt="image" src="https://github.com/DeveloperYard/algorithm/assets/59395755/2c082b4b-ee12-4e07-8aaf-b61a570eab5c" width="380">
+      <img alt="image" src="https://github.com/DeveloperYard/algorithm/assets/59395755/2c082b4b-ee12-4e07-8aaf-b61a570eab5c" >
     </td>
     <td>
-      <img alt="image" src="https://github.com/DeveloperYard/algorithm/assets/59395755/87f6e5e6-ae9d-40de-8ae7-f6e809c2c1f8" width="380">
+      <img alt="image" src="https://github.com/DeveloperYard/algorithm/assets/59395755/87f6e5e6-ae9d-40de-8ae7-f6e809c2c1f8">
     </td>
     <td>
-      <img alt="image" src="https://github.com/DeveloperYard/algorithm/assets/59395755/f986e0ee-7124-490e-a007-af32a14ccb70" width="380">
+      <img alt="image" src="https://github.com/DeveloperYard/algorithm/assets/59395755/f986e0ee-7124-490e-a007-af32a14ccb70">
     </td>
     <td>
-      <img alt="image" src="https://github.com/DeveloperYard/algorithm/assets/59395755/462e9e36-ec8f-4f2a-b4d3-74ce95524949" width="380">
+      <img alt="image" src="https://github.com/DeveloperYard/algorithm/assets/59395755/462e9e36-ec8f-4f2a-b4d3-74ce95524949">
     </td>
   </tr>
   <tr>
